@@ -1,1 +1,1 @@
-# Newby1337
+# Erste versuche um Musik mit einer KI zu erstellen
